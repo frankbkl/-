@@ -1,0 +1,9 @@
+<canvas
+  type="2d"
+  id="dogCanvas"
+  class="canvas"
+  bindtouchstart="onTouchStart"
+  bindtouchmove="onTouchMove"
+  bindtouchend="onTouchEnd"
+  bindtouchcancel="onTouchCancel"
+></canvas>
